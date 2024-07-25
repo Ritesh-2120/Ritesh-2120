@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poverty Relief Network</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem 0;
+        }
+
+        header .container {
+            display: flex;
+            align-items: center;
+            padding: 0 2rem;
+        }
+
+        header img {
+            height: 50px; /* Adjust logo size as needed */
+            margin-right: 1rem;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+
+        nav ul li {
+            margin-left: 1rem;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+
+        main {
+            padding: 2rem;
+        }
+
+        section {
+            margin-bottom: 2rem;
+        }
+
+        section h2 {
+            margin-top: 0;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="logo.png" alt="Poverty Relief Network Logo"> <!-- Replace with your logo path -->
+            <h1>Poverty Relief Network</h1>
+            <nav>
+                <ul>
+                    <li><a href="#donations">Donations</a></li>
+                    <li><a href="#collection">Clothing Collection</a></li>
+                    <li><a href="#food">Food Redistribution</a></li>
+                    <li><a href="#education">Educational Support</a></li>
+                    <li><a href="#medical">Medical Assistance</a></li>
+                    <li><a href="#awareness">Awareness Campaigns</a></li>
+                    <li><a href="#employment">Employment Opportunities</a></li>
+                    <li><a href="#admin">Admin Dashboard</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="donations">
+            <div class="container">
+                <h2>Donation Management</h2>
+                <p><strong>Monetary Donations:</strong> Secure payment gateway for financial contributions.</p>
+                <p><strong>Goods and Services:</strong> System for users to donate items and services, including pick-up scheduling.</p>
+                <p><strong>Corporate Partnerships:</strong> Tools for businesses to contribute and track their social impact.</p>
+                <button onclick="donate()">Donate Now</button>
+            </div>
+        </section>
+
+        <section id="collection">
+            <div class="container">
+                <h2>Clothing Collection and Distribution</h2>
+                <p><strong>Clothing Drop-Off Points:</strong> Locate nearest drop-off centers or schedule home pick-ups.</p>
+                <p><strong>Inventory Management:</strong> Track and manage collected clothing.</p>
+                <p><strong>Distribution Network:</strong> Coordinate with local organizations to distribute clothing to those in need.</p>
+                <button onclick="schedulePickup()">Schedule Pickup</button>
+            </div>
+        </section>
+
+        <section id="food">
+            <div class="container">
+                <h2>Food Redistribution</h2>
+                <p><strong>Food Collection:</strong> System for collecting surplus or unwanted food from individuals and businesses.</p>
+                <p><strong>Food Safety:</strong> Ensure safe handling and distribution of food items.</p>
+                <p><strong>Distribution Channels:</strong> Partner with food banks and community kitchens to distribute food.</p>
+                <button onclick="collectFood()">Collect Food</button>
+            </div>
+        </section>
+
+        <section id="education">
+            <div class="container">
+                <h2>Educational Support</h2>
+                <p><strong>Learning Resources:</strong> Access to online courses, tutoring, and vocational training.</p>
+                <p><strong>Scholarships:</strong> Information on scholarships and educational grants.</p>
+                <button onclick="accessResources()">Access Resources</button>
+            </div>
+        </section>
+
+        <section id="medical">
+            <div class="container">
+                <h2>Medical Assistance</h2>
+                <p><strong>Healthcare Services:</strong> Information on clinics, health camps, and medical aid.</p>
+                <p><strong>Medication Aid:</strong> Connect users with programs for free or subsidized medications.</p>
+                <button onclick="findHealthcare()">Find Healthcare</button>
+            </div>
+        </section>
+
+        <section id="awareness">
+            <div class="container">
+                <h2>Awareness Campaigns</h2>
+                <p><strong>Educational Materials:</strong> Resources and articles on poverty issues and support services.</p>
+                <p><strong>Community Outreach:</strong> Organize and promote local awareness events.</p>
+                <button onclick="viewCampaigns()">View Campaigns</button>
+            </div>
+        </section>
+
+        <section id="employment">
+            <div class="container">
+                <h2>Employment Opportunities</h2>
+                <p><strong>Part-Time Services for Men:</strong> Opportunities for men to work as teachers, provide transportation and lifting services for donated goods, and assist in logistics.</p>
+                <p><strong>Home-Based Work for Women:</strong> Opportunities for women to engage in home-based work like making pens, agarbatti (incense sticks), garlands, and other handicrafts. Jobs such as maid services, cleaning, and other household work catering to upper-class requirements.</p>
+                <button onclick="findEmployment()">Find Employment</button>
+            </div>
+        </section>
+
+        <section id="admin">
+            <div class="container">
+                <h2>Admin Dashboard</h2>
+                <p><strong>Resource Management:</strong> Oversee donations, clothing, and food distributions.</p>
+                <p><strong>Reporting and Analytics:</strong> Track usage, impact, and operational metrics.</p>
+                <button onclick="viewDashboard()">View Dashboard</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Poverty Relief Network. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        function donate() {
+            window.location.href = "https://www.example.com/donate"; // Replace with actual donation link
+        }
+
+        function schedulePickup() {
+            window.location.href = "https://www.example.com/schedule-pickup"; // Replace with actual scheduling link
+        }
+
+        function collectFood() {
+            window.location.href = "https://www.example.com/collect-food"; // Replace with actual food collection link
+        }
+
+        function accessResources() {
+            window.location.href = "https://www.example.com/access-resources"; // Replace with actual educational resources link
+        }
+
+        function findHealthcare() {
+            window.location.href = "https://www.example.com/find-healthcare"; // Replace with actual healthcare link
+        }
+
+        function viewCampaigns() {
+            window.location.href = "https://www.example.com/view-campaigns"; // Replace with actual campaigns link
+        }
+
+        function findEmployment() {
+            window.location.href = "https://www.example.com/find-employment"; // Replace with actual employment link
+        }
+
+        function viewDashboard() {
+            window.location.href = "https://www.example.com/view-dashboard"; // Replace with actual admin dashboard link
+        }
+    </script>
+</body>
+</html>
