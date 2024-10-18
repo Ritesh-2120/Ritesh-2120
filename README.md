@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ritesh-2120
 - 👀 I’m interested in Full Stack web development and Cybersecurity
-- 🌱 I’m currently pursuing Master's in Computer Application
+- 🌱 I’m currently pursuing Master's Of Computer Application from Institute of Engineering and Technology, Lucknow.
 - 📫 How to reach me riteshyadavnew@gmail.com
 - 😄 Pronouns: R-R-R
