@@ -8,7 +8,7 @@ Hi there! I'm **Ritesh**, a passionate software developer and tech enthusiast wi
 - 💻 Experienced in **HTML**, **CSS**, **JavaScript**, and frameworks like **Node.js**, **Express.js**, and **MongoDB**.
 - 🌍 Passionate about **traveling and tourism** and exploring how technology can enhance user experiences in these domains.
 - 🛠️ Developing projects like **MusicBuddy** (an online music playback app) and **Yatra Buddy** (a virtual travel guide).
-- 🤝 Dedicated to helping others through initiatives like **Parmarth**, where I organize free tech workshops for underprivileged students.
+- 🤝 Dedicated to helping others through initiatives like **Parmarth**, where we organize free tech workshops for underprivileged students.
 
 ## My Vision
 
