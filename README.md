@@ -21,10 +21,10 @@ I aim to:
 
 Here are some highlights:
 
-- **[Yatra Buddy](https://github.com/Ritesh-2120/YatraBuddy)**: A virtual guide platform for enhancing tourism experiences.
-- **[MusicBuddy](https://github.com/Ritesh-2120/musicbuddy)**: A responsive music playback web app with dynamic features.
-- **NGO Frontend Website**: A responsive website to support NGO initiatives (find it [here](https://github.com/Ritesh-2120/NGO_frontend)).
-- **Netflix UI Clone**: A responsive web application replicating the Netflix user interface, showcasing design and front-end development skills (find it [here](https://github.com/Ritesh-2120/NetflixClone)).
+- **[Yatra Buddy](https://yatrabuddy.onrender.com/)**: A virtual guide platform for enhancing tourism experiences.
+- **[MusicBuddy](https://musicbuddy.freewebhostmost.com/)**: A responsive music playback web app with dynamic features.
+- **NGO Frontend Website**: A responsive website to support NGO initiatives (find it [here](https://ritesh-2120.github.io/NGO_frontend/)).
+- **Netflix UI Clone**: A responsive web application replicating the Netflix user interface, showcasing design and front-end development skills (find it [here](https://ritesh-2120.github.io/NetflixClone/)).
 
 ## Let's Connect
 
