@@ -14,6 +14,7 @@ Hi there! I'm **Ritesh**, a passionate software developer and tech enthusiast wi
 
 I aim to:
 - Gain expertise in **full-stack development**.
+- AI/ML Enthusiast.
 - Contribute to meaningful projects that solve real-world problems.
 - Transition into leadership roles to guide projects and mentor upcoming developers.
 
