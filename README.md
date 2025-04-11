@@ -5,9 +5,9 @@ Hi there! I'm **Ritesh**, a passionate software developer and tech enthusiast wi
 ## About Me
 
 - 🌱 Currently pursuing a **Master of Computer Application (MCA)** and enhancing my skills in **full-stack development**.
-- 💻 Experienced in **HTML**, **CSS**, **JavaScript**, and frameworks like **Node.js**, **Express.js**, and **MongoDB**.
+- 💻 Experienced in **HTML**, **CSS**, **JavaScript**, and frameworks like **React**, **Node.js**, **Express.js**, and **MongoDB**.
 - 🌍 Passionate about **traveling and tourism** and exploring how technology can enhance user experiences in these domains.
-- 🛠️ Developing projects like **MusicBuddy** (an online music playback app) and **Yatra Buddy** (a virtual travel guide).
+- 🛠️ Build projects like **MusicBuddy** (an online music playback app) and **Yatra Buddy** (a virtual travel guide).
 - 🤝 Dedicated to helping others through initiatives like **Parmarth**, where we organize free tech workshops for underprivileged students.
 
 ## My Vision
@@ -25,7 +25,7 @@ Here are some highlights:
 - **[Yatra Buddy](https://yatrabuddy.onrender.com/)**: A virtual guide platform for enhancing tourism experiences.
 - **[MusicBuddy](https://musicbuddy.freewebhostmost.com/)**: A responsive music playback web app with dynamic features.
 - **NGO Frontend Website**: A responsive website to support NGO initiatives (find it [here](https://ritesh-2120.github.io/NGO_frontend/)).
-- **Netflix UI Clone**: A responsive web application replicating the Netflix user interface, showcasing design and front-end development skills (find it [here](https://ritesh-2120.github.io/NetflixClone/)).
+- **Weather App**: My weather app delivers accurate, real-time updates to help users plan their day effortlessly (find it [here]([https://github.com/Ritesh-2120/WeatherNow]/)).
 
 ## Let's Connect
 
