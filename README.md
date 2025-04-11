@@ -25,7 +25,7 @@ Here are some highlights:
 - **[Yatra Buddy](https://yatrabuddy.onrender.com/)**: A virtual guide platform for enhancing tourism experiences.
 - **[MusicBuddy](https://musicbuddy.freewebhostmost.com/)**: A responsive music playback web app with dynamic features.
 - **NGO Frontend Website**: A responsive website to support NGO initiatives (find it [here](https://ritesh-2120.github.io/NGO_frontend/)).
-- **Weather App**: My weather app delivers accurate, real-time updates to help users plan their day effortlessly (find it [here]([https://github.com/Ritesh-2120/WeatherNow]/)).
+- **Weather App**: My weather app delivers accurate, real-time updates to help users plan their day effortlessly (find it [here](https://github.com/Ritesh-2120/WeatherNow/)).
 
 ## Let's Connect
 
